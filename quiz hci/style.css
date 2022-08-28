@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+}
+nav{
+    background-color: #0f5238;
+    height: 150px;
+}
+.image-container > img {
+    width: 250px;
+    margin-left: 550px;
+}
+.menu-1 {
+    margin-left: 500px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.menu-1 > a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #8e8543;
+}
+#menu{
+    display: flex;
+    flex-direction: row;
+}
+.menu-2 {
+    margin-top: 30px;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.menu-2 > a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #8e8543;
+}
+section{
+    background-color: #ffe4c4;
+}
+.content-1{
+    padding: 70px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffe4c4;
+}
+
+.image-content1 > img {
+    width: 450px;
+    height: 300px;
+    margin-top: 20px;
+}
+.text-content1{
+    font-size: 10px;
+    font-weight: bold;
+    font: icon;
+    margin-left: 20px;
+    justify-content: center;
+}
+.text-content2{
+ 
+    align-items: center;
+    justify-content: center;
+}
+.text2{
+    align-items: center;
+    font-size: large;
+    margin-left: 200px;
+    font-weight: bold;
+    color: #8e8543;
+}
+.imax > img {
+    width: 100px;
+    height: 50px;
+    margin-right: 20px;
+}
+.dolby > img {
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+}
+.image-content2 {
+    padding: 70px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+.now-showing{
+    font-size: 50px;
+    justify-content: center;
+    margin-left: 500px;
+    font-weight: bold;
+    color: #0f5238;
+}
+.content-2{
+    background-color: #ffe4c4;
+}
+.image-show{
+    border: solid 10px #0f5238;
+    display: flex;
+    flex-direction: row;
+}
+.ipman > img {
+    width: 250px;
+    height: 300px;
+}
+.midsomar > img {
+    width: 250px;
+    height: 300px;
+}
+.king > img {
+    width: 250px;
+    height: 300px;
+}
+.avenger > img{
+    width: 250px;
+    height: 300px;
+}
+.coco > img {
+    width: 250px;
+    height: 300px;
+}
+footer {
+    background-color: #0f5238;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.twitter > img {
+    width: 20px;
+    height: 20px;
+}
+
+.facebook > img {
+    width: 20px;
+    height: 20px;
+}
+.ig > img {
+    width: 20px;
+    height: 20px;
+}
+#socmed {
+    margin-left: 800px;
+    display: flex;
+    flex-direction: row;
+}
